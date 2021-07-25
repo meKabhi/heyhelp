@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "694501673960",
+    "project_id": "heyhelp-a60a6",
+    "storage_bucket": "heyhelp-a60a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694501673960:android:6d19bb984481e37ef8725d",
+        "android_client_info": {
+          "package_name": "com.example.heyhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694501673960-sr7fsqha209l8bgr0s5luuhc3ej31rh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heyhelp",
+            "certificate_hash": "5ce8f827de599ced7363bd06246bafa66769af01"
+          }
+        },
+        {
+          "client_id": "694501673960-3pgk6gfed1pe2bi3b0kadaqb04c9onm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpkK3f3toxqRn6CAhr8NPUERByQdVgYOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694501673960-3pgk6gfed1pe2bi3b0kadaqb04c9onm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
